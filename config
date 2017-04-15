@@ -95,9 +95,9 @@ set $text-color #ffffff
 # focus the child container
 #bindsym $mod+d focus child
 
-set $workspace1 "  HOME"
-set $workspace8 "  TOTEM"
-set $workspace9 "  FIREFOX"
+set $workspace1 " "
+set $workspace8 " "
+set $workspace9 " "
 
 # swithc to workspack
 
