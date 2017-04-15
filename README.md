@@ -4,16 +4,29 @@ This is the config file for my i3wm desktop environment
 
 # packages to install
 
-feh
+* feh 
+# TO INSTALL FEH RUN 'sudo apt install feh'
 
-lxappearance
+* lxappearance 
+# TO ISNTALL LXAPPEARANCE 'sudo apt install lxappearance'
 
-rofi
+* font-awesome  
+# CREATE A FOLDER '~/.fonts/' AND MOVE THE FONTAWESOME FONTS INSIDE THIS FOLDERi
 
-compton
+* thunar 
+# TO INSTALL THUNAR 'sudo apt install thunar'
 
-arc theme
+* gnome-theme-icons 
+# TO INSTALL GNOME THEME ICONS 'sudo apt install gnome-icon-theme-full'
 
-font-awesome - for icons
+* moka icons
+
+* rofi 
+# TO INSTALL ROFI 'sudo apt install rofi'
+
+* compton # TO INSTALL COMPTON 'sudo apt install compton' 
+
+* arc theme
 
 
+# ANY OTHER TTF FONT CAN BE PLACED IN THIS FOLDER TO BE USED ACROSS THE PC
