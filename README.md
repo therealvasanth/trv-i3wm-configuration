@@ -1,8 +1,8 @@
 # trv-i3wm-configuration
 
-This is the config file for my i3wm desktop environment
+This is the config file for my i3wm desktop environment and details of the related files necessary for setting up my custom i3 environment.
 
-# packages to install
+## packages to install
 
 * feh 
 # TO INSTALL FEH RUN 'sudo apt install feh'
